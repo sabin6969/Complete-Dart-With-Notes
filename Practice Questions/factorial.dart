@@ -10,7 +10,7 @@ int factorial(int number) {
 }
 
 void main() {
-  int number = 5;
+  int number = 12;
   int fact = factorial(number);
   print(fact);
 }
